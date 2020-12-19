@@ -1,5 +1,11 @@
-# cs50ai
-Projects from Harvard's CS50AI class: https://cs50.harvard.edu/ai/2020/
+# Knowledge - Minesweeper 
+AI plays Minesweeper using propositional logic and makes random moves if no safe moves are known. 
 
-# Helpful commands
-pip3 install -r requirements.txt
+# Installing requirements
+pip3 install -r requirements.txt 
+
+# Running
+python runner.py
+
+# Demonstration
+https://youtu.be/PdQ2ARollUw

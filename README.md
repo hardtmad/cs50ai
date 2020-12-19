@@ -1,5 +1,8 @@
-# cs50ai
-Projects from Harvard's CS50AI class: https://cs50.harvard.edu/ai/2020/
+# Knowledge - Knights 
+AI solves [Knight and Knave logic puzzles](https://en.wikipedia.org/wiki/Knights_and_Knaves) using propositional logic. 
 
-# Helpful commands
-pip3 install -r requirements.txt
+# Running
+python puzzle.py 
+
+# Demonstration
+https://youtu.be/Hldeyy1WOdQ

@@ -1,5 +1,13 @@
-# cs50ai
-Projects from Harvard's CS50AI class: https://cs50.harvard.edu/ai/2020/
+# Learning - Shopping 
+Using scikit-learn's K-nearest neighbor's classifier, the AI predicts whether or not an online shopping customer will make a purchase. Pandas is used to import and clean the input data, which represents 12,000 user sessions. 
+> Train size: 60% 
+> Test sie: 40% 
 
-# Helpful commands
-pip3 install -r requirements.txt
+# Datasets
+shopping.csv
+
+# Running
+python shopping.py [dataset]
+
+# Demonstration
+https://youtu.be/yhog1B8Ys2k

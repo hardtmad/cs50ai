@@ -3,14 +3,14 @@ Build a completed crossword puzzle that contains unique words from "wordset" and
 ![sample solved puzzle](./output.png)
 
 # Structure
-data/structure0.txt
-data/structure1.txt
-data/structure2.txt
+* data/structure0.txt
+* data/structure1.txt
+* data/structure2.txt
 
 # Wordset
-data/words0.txt
-data/words1.txt
-data/words2.txt
+* data/words0.txt
+* data/words1.txt
+* data/words2.txt
 
 # Running
 python generate.py [structure] [wordset]

@@ -10,8 +10,11 @@ Using TensorFlow's Convolutional Neural Network, traffic sign images are pre-pro
 # Dataset
 [German Traffic Sign Recognition Benchmark (GTSRB)](https://benchmark.ini.rub.de) -- over 25,000 images
 
+# Installing requirements
+`pip3 install -r requirements.txt`
+
 # Running
-python traffic.py gtsrb 
+`python traffic.py gtsrb`
 
 # Demonstration
 https://youtu.be/cfDAJVSXqi8

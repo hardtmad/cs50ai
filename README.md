@@ -12,7 +12,7 @@ Estimating page importance using 2 calculation methods:
 * corpus2 - 8 pages
 
 # Running
-python pagerank.py [corpus]
+`python pagerank.py [corpus]`
 
 # Demonstration
 https://youtu.be/a3GJ973ctQQ

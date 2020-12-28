@@ -7,7 +7,7 @@ Given knowledge of trait expression within a family and probability of [GJB2](ht
 * data/family2.csv 
 
 # Running
-python heredity.py [dataset]
+`python heredity.py [dataset]`
 
 # Demonstration
 https://youtu.be/ZSbSxsagPGs

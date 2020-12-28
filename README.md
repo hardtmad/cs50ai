@@ -6,7 +6,7 @@ Using breadth-first search to find the shortest path between two actors in the d
 * small - movies.csv, people.csv, stars.csv
 
 # Running
-python degrees.py [dataset]
+`python degrees.py [dataset]`
 
 # Demonstration
 https://youtu.be/pc9HgmqOYlo

@@ -19,8 +19,11 @@ holmes chuckled      to     himself
 # Datasets
 * sentences/*.txt - sample sentences 1-10 using corpus words 
 
+# Installing requirements
+`pip3 install -r requirements.txt`
+
 # Running
-python parser.py [sentence]
+`python parser.py [sentence]`
 
 # Demonstration
 https://youtu.be/C52TIQsdKtA

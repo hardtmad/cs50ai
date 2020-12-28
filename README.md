@@ -13,8 +13,11 @@ Build a completed crossword puzzle that contains unique words from "wordset" and
 * data/words1.txt
 * data/words2.txt
 
+# Installing requirements
+`pip3 install -r requirements.txt`
+
 # Running
-python generate.py [structure] [wordset]
+`python generate.py [structure] [wordset]`
 
 # Demonstration
 https://youtu.be/Ru6TNYDn8Xs

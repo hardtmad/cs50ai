@@ -6,8 +6,11 @@ Using scikit-learn's K-nearest neighbor's classifier, the AI predicts whether or
 # Datasets
 * shopping.csv
 
+# Installing requirements
+`pip3 install -r requirements.txt`
+
 # Running
-python shopping.py [dataset]
+`python shopping.py [dataset]`
 
 # Demonstration
 https://youtu.be/yhog1B8Ys2k

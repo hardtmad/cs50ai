@@ -11,8 +11,11 @@ This AI answers questions inputted by the user related to the topics in the trai
 * corpus/python.txt
 * corpus/search_algorithms.txt
 
+# Installing requirements
+`pip3 install -r requirements.txt`
+
 # Running
-python question.py corpus 
+`python question.py corpus`
 
 # Demonstration
 https://youtu.be/oww5NovQc7E

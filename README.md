@@ -14,3 +14,6 @@ Projects from Harvard's CS50AI class: https://cs50.harvard.edu/ai/2020/
 * [5-neuralnets-traffic](https://github.com/hardtmad/cs50ai/tree/5-neuralnets-traffic) Image recognition, TensorFlow, Convolutional Neural Network
 * [6-language-parser](https://github.com/hardtmad/cs50ai/tree/6-language-parser) NLTK, Context-Free Grammars
 * [6-language-questions](https://github.com/hardtmad/cs50ai/tree/6-languages-questions) NLTK, tf-idf, Question Answering
+
+
+![certif](./certif.png)
